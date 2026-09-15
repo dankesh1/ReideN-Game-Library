@@ -21,19 +21,19 @@
   <a href="https://github.com/dankesh1/ReideN-Game-Library/releases">
     <img src="https://img.shields.io/badge/🚀_İndir-Releases-blue?style=for-the-badge" alt="Download">
   </a>
-  <a href="https://www.virustotal.com/">
+  <a href="https://www.virustotal.com/gui/file/0979199449c1f13cc436a689b61db0f2a08831bae575943ec40303207c09209e" target="_blank">
     <img alt="VirusTotal MSI" src="https://img.shields.io/badge/VirusTotal-MSI-blue?style=for-the-badge&logo=virustotal" />
   </a>
-  <a href="https://www.virustotal.com/">
+  <a href="https://www.virustotal.com/gui/file/bd1970d356f55017cf036663ac74ad352bfc8d9851133d9842370e63a5de9568" target="_blank">
     <img alt="VirusTotal EXE" src="https://img.shields.io/badge/VirusTotal-EXE-blue?style=for-the-badge&logo=virustotal" />
   </a>
 </p>
 
 <br>
 
-**ReideN Game Library**, Steam'i yeniden başlatmadan oyun ekleme/kaldırma, Denuvo korumalı oyunları deneyimleme, Steam Workshop (Atölye) modlarını otomatik kullanma, Online Fix ile arkadaşlarınızla co-op/online oynama imkanı sunan, Rockstar, Ubisoft, EA gibi launcher doğrulamalarını bypass eden ve Steam'den kaldırılanlar dahil 178.000'den fazla oyunu tek çatı altında toplayan yeni nesil kütüphane ve oyun yönetim uygulamasıdır.
+**ReideN Game Library**, Steam'i yeniden başlatmadan oyun ekleme/kaldırma, Denuvo korumalı oyunları deneyimleme, Online Fix ile arkadaşlarınızla co-op/online oynama imkanı sunan, Rockstar, Ubisoft, EA gibi launcher doğrulamalarını bypass eden ve Steam'den kaldırılanlar dahil 178.000'den fazla oyunu tek çatı altında toplayan yeni nesil kütüphane ve oyun yönetim uygulamasıdır.
 
-[İndir](https://github.com/dankesh1/ReideN-Game-Library/releases) · [Discord](https://discord.gg/reiden) · [Hata Bildir](https://discord.gg/reiden)
+[İndir](https://github.com/dankesh1/ReideN-Game-Library/releases) · [VirusTotal (EXE)](https://www.virustotal.com/gui/file/bd1970d356f55017cf036663ac74ad352bfc8d9851133d9842370e63a5de9568) · [VirusTotal (MSI)](https://www.virustotal.com/gui/file/0979199449c1f13cc436a689b61db0f2a08831bae575943ec40303207c09209e) · [Discord](https://discord.gg/reiden) · [Hata Bildir](https://discord.gg/reiden)
 
 </div>
 
@@ -41,7 +41,7 @@
 
 ## 📋 Genel Bakış (Overview)
 
-**ReideN Game Library**, Steam kütüphanenizi tek bir yerden yönetmenizi sağlayan gelişmiş bir oyun yönetim uygulamasıdır. Steam'i yeniden başlatmaya gerek kalmadan oyun ekleyip kaldırabilir, Steam'den kaldırılanlar dahil 178.000'den fazla oyuna ücretsiz erişebilir, oyun ve uygulamalara ait Steam Workshop (Atölye) modlarını sorunsuz ve otomatik şekilde kullanabilir, Denuvo ve Launcher Bypass (Rockstar, Ubisoft, EA) desteğiyle engellere takılmadan oynayabilir ve Online Fix ile arkadaşlarınızla co-op oyunların tadını çıkarabilirsiniz.
+**ReideN Game Library**, Steam kütüphanenizi tek bir yerden yönetmenizi sağlayan gelişmiş bir oyun yönetim uygulamasıdır. Steam'i yeniden başlatmaya gerek kalmadan oyun ekleyip kaldırabilir, Steam'den kaldırılanlar dahil 178.000'den fazla oyuna ücretsiz erişebilir, Denuvo ve Launcher Bypass (Rockstar, Ubisoft, EA) desteğiyle engellere takılmadan oynayabilir ve Online Fix ile arkadaşlarınızla co-op oyunların tadını çıkarabilirsiniz.
 
 Ayrıca Steam ile birebir uyumlu profil özelleştirmesi sayesinde gerçek Steam puan mağazasındaki hareketli avatarları, çerçeveleri ve arka planları profilinizde ücretsiz olarak kullanabilirsiniz.
 
@@ -61,7 +61,7 @@ Ayrıca Steam ile birebir uyumlu profil özelleştirmesi sayesinde gerçek Steam
     </td>
     <td width="33%" align="center">
       <h3>🛡️ Denuvo Desteği</h3>
-      <p>Denuvo korumalı oyunlarda gelişmiş kendi altyapımızla desteklenen oyunlarda güvenli ve sorunsuz deneyim.</p>
+      <p>Denuvo korumalı oyunlarda gelişmiş kendi altyapımızla desteklenen oyunlarda güvenli ve sorunsuz deneyim. Ayrıca SteamID eşleme sayesinde kayıt (save) dosyalarınız asla bozulmaz.</p>
     </td>
   </tr>
 </table>
@@ -90,9 +90,7 @@ ReideN Game Library, internetteki kararsız ve güvenliği belirsiz ücretsiz ü
 
 - 🛡️ **Kendi Sistemimize Bağlı Altyapı:** Oyun ekleme/kaldırma/indirme, denuvo sistemi ve kütüphane veritabanı için kullanılan tüm DLL'ler vb. sistem bileşenleri ReideN ekibi tarafından geliştirilmektedir. SteamTools vb. uygulamalardaki gibi "Internet bağlantısı yok", "Bilinmeyen Hata" veya "Satın Al" gibi sorunlarla karşılaşmazsınız.
 
-- 🚀 **Özel Denuvo Mimarisi:** Denuvo korumalı oyunlar için kurduğumuz sistemde paylaşımlı hesaplarla uğraşmadan oyunları doğrudan kendi şahsi Steam hesabınız üzerinden, diğer uygulamalardaki amatör manuel işlemler olmadan tek tıkla tamamen otomatik ve sorunsuz bir şekilde oynarsınız.
-
-- 🛠️ **Otomatik Steam Workshop (Atölye) Desteği:** Eklenen tüm oyun ve uygulamaların Steam Workshop modlarını, eklentilerini ve haritalarını harici sitelerle uğraşmadan doğrudan Steam üzerinden otomatik ve sorunsuz olarak kullanabilirsiniz.
+- 🚀 **Özel Denuvo Mimarisi & Kayıt (Save) Güvencesi:** Denuvo korumalı oyunlar için kurduğumuz sistemde paylaşımlı hesaplarla uğraşmadan oyunları doğrudan kendi şahsi Steam hesabınız üzerinden, diğer uygulamalardaki amatör manuel işlemler olmadan tek tıkla tamamen otomatik ve sorunsuz bir şekilde oynarsınız. Ayrıca Denuvo aktivasyonlarında sıklıkla karşılaşılan SteamID uyumsuzluğu ve oyun kayıtlarının (save) bozulması sorunu, akıllı SteamID eşleme altyapımızla tamamen çözülmüştür; oyun ilerlemeniz ve kayıt dosyalarınız her zaman güvende kalır.
 
 - 🌐 **Piyasanın En Geniş Oyun Veritabanı:** Piyasada başka hiçbir yerde bulunmayan kapsamda, sürekli güncellenen ve yüksek hızlı sunucularla desteklenen **178.000'den fazla** oyunluk devasa bir veritabanına sahibiz.
 
@@ -117,7 +115,6 @@ ReideN Game Library mağazası, oyun keşfetmeyi zahmetsiz ve pratik hale getiri
 Eklediğiniz tüm içerikleri tek bir akıcı panelden kontrol edin:
 
 * **Steam Entegre İndirme:** İndirmeleri başlatın, duraklatın ve hız sınırlaması olmadan devam ettirin.
-* **Steam Atölye (Workshop) Desteği:** Oyun ve uygulamalara ait tüm Workshop modlarını, eklentilerini ve haritalarını tek tıkla otomatik ve sorunsuz kullanma.
 * **Koleksiyonlar & Kategoriler:** Oyunlarınızı türlerine veya kişisel tercihlerinize göre gruplandırın.
 * **DLC & Launcher Bypass Yönetimi:** Ek paketleri, Rockstar/Ubisoft/EA bypass yamalarını tek tıkla yönetin.
 * **Başarım Kilidi / Yönetimi:** Steam başarımlarını görüntüleyin ve dilediğiniz gibi yönetin.
@@ -174,12 +171,17 @@ Kişisel tercihlerinizi, gizliliğinizi ve hesap güvenliğinizi kolayca yapıla
 
 <table>
   <tr>
-    <td width="50%" align="center">
+    <td width="33%" align="center">
       <h3>📦 İndir</h3>
       <p>En güncel yükleyiciye GitHub Releases üzerinden hemen ulaşın.</p>
       <a href="https://github.com/dankesh1/ReideN-Game-Library/releases"><b>👉 Sürümleri İndir</b></a>
     </td>
-    <td width="50%" align="center">
+    <td width="33%" align="center">
+      <h3>🛡️ VirusTotal Raporları</h3>
+      <p>Şeffaf güvenlik analizi ve resmi antivirüs tarama sonuçları.</p>
+      <a href="https://www.virustotal.com/gui/file/bd1970d356f55017cf036663ac74ad352bfc8d9851133d9842370e63a5de9568" target="_blank"><b>🔍 EXE Taraması</b></a> · <a href="https://www.virustotal.com/gui/file/0979199449c1f13cc436a689b61db0f2a08831bae575943ec40303207c09209e" target="_blank"><b>🔍 MSI Taraması</b></a>
+    </td>
+    <td width="33%" align="center">
       <h3>💬 Topluluk & Destek</h3>
       <p>Öneri, soru, destek ve hata bildirimleri için Discord sunucumuza katılabilirsiniz.</p>
       <a href="https://discord.gg/reiden"><b>👉 Discord'a Katıl</b></a>
