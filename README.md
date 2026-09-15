@@ -41,7 +41,7 @@
 
 ## 📋 Genel Bakış (Overview)
 
-**ReideN Game Library**, Steam kütüphanenizi tek bir yerden yönetmenizi sağlayan gelişmiş bir oyun yönetim uygulamasıdır. Steam'i yeniden başlatmaya gerek kalmadan oyun ekleyip kaldırabilir, Steam'den kaldırılanlar dahil 178.000'den fazla oyuna ücretsiz erişebilir, Denuvo ve Launcher Bypass (Rockstar, Ubisoft, EA) desteğiyle engellere takılmadan oynayabilir ve Online Fix ile arkadaşlarınızla co-op oyunların tadını çıkarabilirsiniz.
+**ReideN Game Library**, Steam kütüphanenizi tek bir yerden yönetmenizi sağlayan gelişmiş bir oyun yönetim uygulamasıdır. Steam'i yeniden başlatmaya gerek kalmadan oyun ekleyip kaldırabilir, Steam'den kaldırılanlar dahil 178.000'den fazla oyuna ücretsiz erişebilir, oyun ve uygulamalara ait Steam Workshop (Atölye) modlarını sorunsuz ve otomatik şekilde kullanabilir,  Denuvo ve Launcher Bypass (Rockstar, Ubisoft, EA) desteğiyle engellere takılmadan oynayabilir ve Online Fix ile arkadaşlarınızla co-op oyunların tadını çıkarabilirsiniz.
 
 Ayrıca Steam ile birebir uyumlu profil özelleştirmesi sayesinde gerçek Steam puan mağazasındaki hareketli avatarları, çerçeveleri ve arka planları profilinizde ücretsiz olarak kullanabilirsiniz.
 
@@ -91,6 +91,8 @@ ReideN Game Library, internetteki kararsız ve güvenliği belirsiz ücretsiz ü
 - 🛡️ **Kendi Sistemimize Bağlı Altyapı:** Oyun ekleme/kaldırma/indirme, denuvo sistemi ve kütüphane veritabanı için kullanılan tüm DLL'ler vb. sistem bileşenleri ReideN ekibi tarafından geliştirilmektedir. SteamTools vb. uygulamalardaki gibi "Internet bağlantısı yok", "Bilinmeyen Hata" veya "Satın Al" gibi sorunlarla karşılaşmazsınız.
 
 - 🚀 **Özel Denuvo Mimarisi & Kayıt (Save) Güvencesi:** Denuvo korumalı oyunlar için kurduğumuz sistemde paylaşımlı hesaplarla uğraşmadan oyunları doğrudan kendi şahsi Steam hesabınız üzerinden, diğer uygulamalardaki amatör manuel işlemler olmadan tek tıkla tamamen otomatik ve sorunsuz bir şekilde oynarsınız. Ayrıca Denuvo aktivasyonlarında sıklıkla karşılaşılan SteamID uyumsuzluğu ve oyun kayıtlarının (save) bozulması sorunu, akıllı SteamID eşleme altyapımızla tamamen çözülmüştür; oyun ilerlemeniz ve kayıt dosyalarınız her zaman güvende kalır.
+
+- 🛠️ **Otomatik Steam Workshop (Atölye) Desteği:** Eklenen tüm oyun ve uygulamaların Steam Workshop modlarını, eklentilerini ve haritalarını harici sitelerle uğraşmadan doğrudan Steam üzerinden otomatik ve sorunsuz olarak kullanabilirsiniz.
 
 - 🌐 **Piyasanın En Geniş Oyun Veritabanı:** Piyasada başka hiçbir yerde bulunmayan kapsamda, sürekli güncellenen ve yüksek hızlı sunucularla desteklenen **178.000'den fazla** oyunluk devasa bir veritabanına sahibiz.
 
